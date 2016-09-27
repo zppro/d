@@ -1,0 +1,23 @@
+{
+  "name": "d",
+  "version": "0.0.1",
+  "description": "dispatch messages",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zppro/d"
+  },
+  "keywords": [
+    "dispatch",
+    "http"
+  ],
+  "author": "zppro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zppro/d/issues"
+  },
+  "homepage": "https://github.com/zppro/d"
+}
